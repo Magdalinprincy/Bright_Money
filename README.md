@@ -12,6 +12,10 @@ This repository contains the deliverables for the **Web Developer Role Assignmen
    - Properly structured HTML with meta tags, alt attributes, and headings.  
    - JSON-LD schema markup for enhanced search engine visibility.  
 
+3. **Google Tag Manager (GTM)**  
+   - Integrated GTM for efficient management of analytics and tracking codes.  
+   - Enables easy configuration and deployment of third-party tools like Google Analytics without altering the codebase.  
+
 ## How to Run  
 1. Clone the repository:  
    ```bash

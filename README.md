@@ -6,15 +6,12 @@ This repository contains the deliverables for the **Web Developer Role Assignmen
 1. **Responsive Webpage Design**  
    - Built using HTML, CSS, and JavaScript.  
    - Fully responsive for desktop, tablet, and mobile screens.  
-   - Includes interactive elements like an image/slide carousel.  
 
 2. **SEO Optimization**  
    - Properly structured HTML with meta tags, alt attributes, and headings.  
-   - JSON-LD schema markup for enhanced search engine visibility.  
 
 3. **Google Tag Manager (GTM)**  
-   - Integrated GTM for efficient management of analytics and tracking codes.  
-   - Enables easy configuration and deployment of third-party tools like Google Analytics without altering the codebase.  
+   - Integrated GTM for efficient management of analytics and tracking codes. 
 
 ## Screenshots  
 Here are the screenshots for desktop, tablet, and mobile views:

@@ -16,6 +16,18 @@ This repository contains the deliverables for the **Web Developer Role Assignmen
    - Integrated GTM for efficient management of analytics and tracking codes.  
    - Enables easy configuration and deployment of third-party tools like Google Analytics without altering the codebase.  
 
+## Screenshots  
+Here are the screenshots for desktop, tablet, and mobile views:
+
+- **Desktop View**  
+  ![Desktop View](assets/screenshots/Desktop_View.png)
+
+- **Tablet View**  
+  ![Tablet View](assets/screenshots/Tablet_View.png)
+
+- **Mobile View**  
+  ![Mobile View](assets/screenshots/Mobile_View.png)
+
 ## How to Run  
 1. Clone the repository:  
    ```bash

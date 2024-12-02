@@ -1,4 +1,4 @@
-# Web Developer Role Assignment   
+# Assignment 
 
 This repository contains the deliverables for the **Web Developer Role Assignment**, showcasing skills in responsive front-end development, SEO optimization, and analytics setup.  
 

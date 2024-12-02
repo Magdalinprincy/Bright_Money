@@ -16,4 +16,4 @@ This repository contains the deliverables for the **Web Developer Role Assignmen
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Magdalinprincy/Bright_Money.git
-   cd <repository-folder>
+   cd Bright_Money

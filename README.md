@@ -10,9 +10,6 @@ This repository contains the deliverables for the **Web Developer Role Assignmen
 2. **SEO Optimization**  
    - Properly structured HTML with meta tags, alt attributes, and headings.  
 
-3. **Google Tag Manager (GTM)**  
-   - Integrated GTM for efficient management of analytics and tracking codes. 
-
 ## Screenshots  
 Here are the screenshots for desktop, tablet, and mobile views:
 
